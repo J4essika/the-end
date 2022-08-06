@@ -108,6 +108,13 @@ main aside{
    display: grid;
 }
 
+iframe{
+ width: 100%;
+ 
+    
+}
+
+
 
 footer{
     background-color: var(--cor2);
@@ -128,5 +135,10 @@ font-family: "note";
 text-shadow: 5px 5px 6px var(--cor2);
 
 }
+
+
+
+
+
 
     
