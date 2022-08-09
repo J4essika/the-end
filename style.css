@@ -34,6 +34,20 @@ h1{
     text-shadow: 5px 5px 6px #000;
 }
 
+h2{ color:var(--cor0);
+    font-family: "note";
+    font-size: medium;
+}
+
+ 
+aside{
+    border:solid;
+    text-align: center;
+    background-color: var(--cor2);
+    font-family: cursive
+}
+
+
  
 
 nav a{
