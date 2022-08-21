@@ -19,8 +19,8 @@ body{
 
 
 header{
-    background-image: url(banner-dn.jpg);
-    padding: 40px;
+    background-image: url(lelight-gif.gif);
+    padding: 50px;
     background-size: cover;
     background-repeat: no-repeat;
     color:var(--cor1);
@@ -52,6 +52,7 @@ aside{
  
 
 nav a{
+    
     background-color: var(--cor0);
     text-decoration: none;
     padding: 10px;
@@ -59,6 +60,7 @@ nav a{
     border-radius: 5px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: larger;
+    display: inline;
     box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.549);
 
 }
