@@ -52,7 +52,6 @@ aside{
 }
 
 
- 
 
 nav a{
     
@@ -69,8 +68,8 @@ nav a{
 }
 
 
-nav  :hover{
-    background-color: var(--cor4);
+a:hover{
+    background-color: var(--cor3);
 
 }
 
@@ -140,12 +139,16 @@ iframe{
 
 
 
+
+
 footer{
     background-color: var(--cor2);
     padding: 2px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+
+
 
 
 html{
@@ -164,6 +167,7 @@ font-family: "note";
 text-shadow: 5px 5px 6px var(--cor2);
 
 }
+
 
 
 
