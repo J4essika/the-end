@@ -1,5 +1,11 @@
 @charset'utf-8';
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 
 :root{
     --cor0:#8b0000;
@@ -168,7 +174,6 @@ font-family: "note";
 text-shadow: 5px 5px 6px var(--cor2);
 
 }
-
 
 
 
