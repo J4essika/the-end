@@ -1,4 +1,4 @@
-window.alert('Olá, me chamo Jéssica Souza sejam bem vindos(as) ao site.😊🖥❤')
+window.alert('Olá, me chamo Jéssica Souza sejam bem vindos(as) ao site.😊🖥❤');
 let nome = ' Jessica Souza'
 console.log('Jéssica Souza 2022')
 
